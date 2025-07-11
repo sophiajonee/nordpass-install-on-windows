@@ -1,3 +1,7 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://softwareinstaller.net/">
+
 How to Install NordPass on Windows, macOS, Android, and iOS? 🔐
 ============================================
 
